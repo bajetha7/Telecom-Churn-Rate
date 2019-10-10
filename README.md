@@ -1,4 +1,4 @@
-# Telecom-Churn-Rate
+# Telecom Churn Prediction
 
 **This dataset was given as a coursework project by UpX Academy.**
 
